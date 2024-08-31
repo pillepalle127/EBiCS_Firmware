@@ -77,7 +77,7 @@
 #define GEAR_RATIO 98 //11 for BionX IGH3
 #define SPEEDLIMIT 25
 #define PULSES_PER_REVOLUTION 1
-#define SPEEDSOURCE EXTERNAL
+#define SPEEDSOURCE INTERNAL
 #define SPEEDFILTER 1
 #define SPDSHFT 0
 
@@ -97,8 +97,7 @@
 
 //---------------------------------------------------------------------
 //Display settings
-#define DISPLAY_TYPE DISPLAY_TYPE_DEBUG
-//DISPLAY_TYPE_KINGMETER_901U
+#define DISPLAY_TYPE DISPLAY_TYPE_KINGMETER_901U
 
 //---------------------------------------------------------------------
 //Regen settings
@@ -108,6 +107,6 @@
 //#define ADC_BRAKE
 
 //---------------------------------------------------------------------
-#define AUTODETECT 1
+#define AUTODETECT 0
 
 #endif /* CONFIG_H_ */
