@@ -97,7 +97,8 @@
 
 //---------------------------------------------------------------------
 //Display settings
-#define DISPLAY_TYPE DISPLAY_TYPE_KINGMETER_901U
+#define DISPLAY_TYPE DISPLAY_TYPE_DEBUG
+//DISPLAY_TYPE_KINGMETER_901U
 
 //---------------------------------------------------------------------
 //Regen settings
@@ -107,6 +108,6 @@
 //#define ADC_BRAKE
 
 //---------------------------------------------------------------------
-#define AUTODETECT 0
+#define AUTODETECT 1
 
 #endif /* CONFIG_H_ */
