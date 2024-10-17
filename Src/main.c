@@ -1057,7 +1057,7 @@ int main(void)
 				//print values for debugging
 
 				sprintf_(buffer, "%d, %d, %d, %d, %d, %d, %d, %d, %d\r\n",
-						adcData[1],
+						adcData[6],
 						ui16_throttle_offset,
 						ui16_timertics,
 						uint32_PAS,
