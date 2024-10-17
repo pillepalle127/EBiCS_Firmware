@@ -67,7 +67,7 @@
 
 //---------------------------------------------------------------------
 //Throttle settings
-#define THROTTLE_OFFSET 1250   //only default value, throttle offset is set at startup automatically
+#define THROTTLE_OFFSET 1050   //only default value, throttle offset is set at startup automatically
 #define THROTTLE_MAX 3250
 #define THROTTLE_OVERRIDE
 
@@ -83,8 +83,8 @@
 
 //---------------------------------------------------------------------
 //power settings
-#define PH_CURRENT_MAX 1200
-#define BATTERYCURRENT_MAX 14000
+#define PH_CURRENT_MAX 1500
+#define BATTERYCURRENT_MAX 18000
 #define REVERSE -1 //1 for normal direction, -1 for reverse
 #define PUSHASSIST_CURRENT 300
 #define VOLTAGE_MIN 1320 //33V
