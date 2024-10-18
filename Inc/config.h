@@ -20,7 +20,7 @@
 #define EXTERNAL 1
 #define INTERNAL 0
 //----------------------------------------------------------------------
-// advanced setting, don't touch, if you don't know what you are doing!
+// -advanced setting, don't touch, if you don't know what you are doing!
 #define TRIGGER_OFFSET_ADC 50
 #define TRIGGER_DEFAULT 2020
 #define _T 2028
