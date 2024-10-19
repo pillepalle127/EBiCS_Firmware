@@ -93,11 +93,11 @@
 //torquesensor settings
 #define TS_COEF 2400
 #define TS_MODE
-#define TQONAD1
+//#define TQONAD1
 
 //---------------------------------------------------------------------
 //Display settings
-#define DISPLAY_TYPE DISPLAY_TYPE_KUNTENG 
+#define DISPLAY_TYPE DISPLAY_TYPE_DEBUG 
 
 //---------------------------------------------------------------------
 //Regen settings
